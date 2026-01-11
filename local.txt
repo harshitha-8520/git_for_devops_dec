@@ -1,3 +1,2 @@
-Hello Students
-Welcome to Git Training
+Welcome to Master Branch
 
